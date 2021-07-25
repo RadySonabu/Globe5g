@@ -10,6 +10,8 @@ function Card({ title, content, callToAction, image }) {
 					className="w-20 h-20 object-cover rounded-full "
 					src={image}
 					alt="image"
+					width="50"
+					height="50"
 				/>
 			</div>
 			<div>

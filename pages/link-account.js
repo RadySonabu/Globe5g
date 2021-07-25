@@ -4,8 +4,7 @@ import Navbar from "../components/Navbar";
 import Card from "../components/Card";
 import Breadcrumbs from "../components/Breadcrumbs";
 
-function LinkAccount() {
-	const { linkStatus, setLinkStatus } = useState("Link");
+function linkAccount() {
 	return (
 		<div className="bg-white h-screen">
 			<div className="grid grid-cols-6">
@@ -44,4 +43,4 @@ function LinkAccount() {
 	);
 }
 
-export default LinkAccount;
+export default linkAccount;

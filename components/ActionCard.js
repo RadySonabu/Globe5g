@@ -8,6 +8,8 @@ function ActionCard({ title, content, image, actionButtonText }) {
 					className="w-20 h-20 object-cover rounded-full "
 					src={image}
 					alt="image"
+					width="50"
+					height="50"
 				/>
 			</div>
 			<div>

@@ -7,9 +7,11 @@ function Sidebar() {
 				<div className="flex flex-wrap mt-8">
 					<div className="w-1/2">
 						<Image
-							src="https://randomuser.me/api/portraits/women/27.jpg"
+							src="https://www.famousbirthdays.com/faces/cong-tv-image.jpg"
 							className="mx-auto w-20 h-20 rounded-full"
 							alt="image"
+							width="100"
+							height="100"
 						/>
 					</div>
 					<div className="w-1/2">
