@@ -44,4 +44,4 @@ function LinkAccount() {
 	);
 }
 
-export default linkAccount;
+export default LinkAccount;
