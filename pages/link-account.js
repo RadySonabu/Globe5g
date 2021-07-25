@@ -4,7 +4,7 @@ import Navbar from "../components/Navbar";
 import Card from "../components/Card";
 import Breadcrumbs from "../components/Breadcrumbs";
 
-function linkAccount() {
+function LinkAccount() {
 	const { linkStatus, setLinkStatus } = useState("Link");
 	return (
 		<div className="bg-white h-screen">

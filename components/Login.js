@@ -15,7 +15,7 @@ function Login() {
 							leaving the UI design on us!
 						</p>
 						<p className="flex flex-col items-center justify-center mt-10 text-center">
-							<span>Don't have an account?</span>
+							<span>Don&apos;t have an account?</span>
 							<a href="#" className="underline">
 								Get Started!
 							</a>
@@ -38,7 +38,7 @@ function Login() {
 						<form action="#" className="flex flex-col space-y-5">
 							<div className="flex flex-col space-y-1">
 								<label
-									for="email"
+									htmlFor="email"
 									className="text-sm font-semibold text-gray-500"
 								>
 									Email address
@@ -46,14 +46,14 @@ function Login() {
 								<input
 									type="email"
 									id="email"
-									autofocus
+									autoFocus
 									className="px-4 py-2 transition duration-300 border border-gray-300 rounded focus:border-transparent focus:outline-none focus:ring-4 focus:ring-blue-200"
 								/>
 							</div>
 							<div className="flex flex-col space-y-1">
 								<div className="flex items-center justify-between">
 									<label
-										for="password"
+										htmlFor="password"
 										className="text-sm font-semibold text-gray-500"
 									>
 										Password
@@ -78,7 +78,7 @@ function Login() {
 									className="w-4 h-4 transition duration-300 rounded focus:ring-2 focus:ring-offset-0 focus:outline-none focus:ring-blue-200"
 								/>
 								<label
-									for="remember"
+									htmlFor="remember"
 									className="text-sm font-semibold text-gray-500"
 								>
 									Remember me
@@ -117,7 +117,7 @@ function Login() {
 												aria-hidden="true"
 											>
 												<path
-													fill-rule="evenodd"
+													fillRule="evenodd"
 													d="M83.829,0.349C37.532,0.349,0,37.881,0,84.178c0,41.523,30.222,75.911,69.848,82.57v-65.081H49.626
                                                     v-23.42h20.222V60.978c0-20.037,12.238-30.956,30.115-30.956c8.562,0,15.92,0.638,18.056,0.919v20.944l-12.399,0.006
                                                     c-9.72,0-11.594,4.618-11.594,11.397v14.947h23.193l-3.025,23.42H94.026v65.653c41.476-5.048,73.631-40.312,73.631-83.154

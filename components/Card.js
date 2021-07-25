@@ -1,13 +1,15 @@
 import React, { useState } from "react";
+import Image from "next/image";
 
 function Card({ title, content, callToAction, image }) {
 	const [buttonText, setButtonText] = useState("Link", []);
 	return (
 		<div className="max-w-md py-4 px-8 bg-white shadow-lg rounded-lg my-20">
 			<div className="flex justify-center md:justify-end -mt-16">
-				<img
+				<Image
 					className="w-20 h-20 object-cover rounded-full "
 					src={image}
+					alt="image"
 				/>
 			</div>
 			<div>
