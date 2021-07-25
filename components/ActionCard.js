@@ -1,7 +1,6 @@
-import React, { useState } from "react";
+import React from "react";
 
-function Card({ title, content, callToAction, image }) {
-	const [buttonText, setButtonText] = useState("Link", []);
+function ActionCard({ title, content, image, actionButtonText }) {
 	return (
 		<div className="max-w-md py-4 px-8 bg-white shadow-lg rounded-lg my-20">
 			<div className="flex justify-center md:justify-end -mt-16">
@@ -23,19 +22,12 @@ function Card({ title, content, callToAction, image }) {
 				<button
 					type="submit"
 					className="text-xl font-medium text-indigo-500"
-					onClick={() => {
-						if (buttonText == "Link") {
-							setButtonText("Unlink");
-						} else if (buttonText == "Unlink") {
-							setButtonText("Link");
-						}
-					}}
 				>
-					{buttonText}
+					{actionButtonText}
 				</button>
 			</div>
 		</div>
 	);
 }
 
-export default Card;
+export default ActionCard;
