@@ -11,6 +11,7 @@ module.exports = {
 			"encrypted-tbn0.gstatic.com",
 			"e7.pngegg.com",
 			"cdn.pixabay.com",
+			"lh3.googleusercontent.com",
 		],
 	},
 };
