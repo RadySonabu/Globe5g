@@ -13,6 +13,8 @@ module.exports = {
 			"cdn.pixabay.com",
 			"lh3.googleusercontent.com",
 			"images.unsplash.com",
+			"media.gq.com",
+			"media.istockphoto.com",
 		],
 	},
 };
