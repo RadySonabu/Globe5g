@@ -1,7 +1,7 @@
 import React from "react";
 import Sidebar from "../components/Sidebar";
 import Breadcrumbs from "../components/Breadcrumbs";
-
+import Image from "next/image";
 function inventory() {
 	const people = [
 		{
@@ -84,12 +84,14 @@ function inventory() {
 														<td className="px-6 py-4 whitespace-nowrap">
 															<div className="flex items-center">
 																<div className="flex-shrink-0 h-10 w-10">
-																	<img
+																	<Image
 																		className="h-10 w-10 rounded-full"
 																		src={
 																			person.image
 																		}
 																		alt=""
+																		width="50"
+																		height="50"
 																	/>
 																</div>
 																<div className="ml-4">

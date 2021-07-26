@@ -12,6 +12,7 @@ module.exports = {
 			"e7.pngegg.com",
 			"cdn.pixabay.com",
 			"lh3.googleusercontent.com",
+			"images.unsplash.com",
 		],
 	},
 };
