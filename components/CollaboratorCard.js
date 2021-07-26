@@ -9,7 +9,7 @@ function CollaboratorCard() {
 						className="h-12 w-12 rounded-full"
 						src="https://lh3.googleusercontent.com/a-/AOh14Gi0DgItGDTATTFV6lPiVrqtja6RZ_qrY91zg42o-g"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<div className="ml-2">
@@ -69,56 +69,56 @@ function CollaboratorCard() {
 						className="inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1510520434124-5bc7e642b61d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1542156822-6924d1a71ace?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1510520434124-5bc7e642b61d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1542156822-6924d1a71ace?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 				</div>
@@ -130,112 +130,112 @@ function CollaboratorCard() {
 						className="inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1510520434124-5bc7e642b61d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1542156822-6924d1a71ace?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1510520434124-5bc7e642b61d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1542156822-6924d1a71ace?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1510520434124-5bc7e642b61d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1542156822-6924d1a71ace?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1510520434124-5bc7e642b61d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 					<Image
 						className="-ml-2 inline-block h-6 w-6 rounded-full text-white border-2 border-white object-cover object-center"
 						src="https://images.unsplash.com/photo-1542156822-6924d1a71ace?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
 						alt=""
-						widht="50"
+						width="50"
 						height="50"
 					/>
 				</div>
